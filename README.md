@@ -28,9 +28,17 @@ jupyter notebook analysis.ipynb
 
 ## Output
 
-Running all cells produces:
-- `top_words.png` — bar chart of the 25 most frequent words
-- `zipf_law.png`  — log-log Zipf's Law plot with the empirical Zipf line overlaid
+Running all cells produces the following visualisations:
+
+### Top Words
+Bar chart of the 25 most frequent words:
+
+![Top Words](top_words.png)
+
+### Zipf's Law
+Log-log Zipf's Law plot with the empirical Zipf line overlaid:
+
+![Zipf's Law](zipf_law.png)
 
 ## Extending the project
 
